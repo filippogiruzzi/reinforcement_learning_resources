@@ -14,38 +14,38 @@ This repository contains some personal Deep Reinforcement Learning class notes i
 
 ### 1.1 CS285 (UC Berkeley) - Deep Reinforcement Learning by Sergey Levine
 
-##### 1. Introduction
+#### 1. Introduction
 
 WIP
 
-##### 2. Supervised Learning of behaviors  
+#### 2. Supervised Learning of behaviors  
 
 1. Goal  
 2. Algorithms  
     2.1 DAgger: Dataset Aggregation  
 3. Tips & hacks
 
-##### 3. Introduction to Reinforcement Learning
+#### 3. Introduction to Reinforcement Learning
 
 1. Goal  
 2. Algorithms  
     2.1 Global structure  
     2.2 Exemples
 
-##### 4. Policy Gradients
+#### 4. Policy Gradients
 
 1. Algorithms  
     1.1. REINFORCE
 2. Tips & hacks
 
-##### 5. Actor-Critic algorithms
+#### 5. Actor-Critic algorithms
 
 1. Algorithms  
     1.1. Batch Actor-Critic  
     1.2. Online Actor-Critic
 2. Tips & hacks
 
-##### 6. Value function methods
+#### 6. Value function methods
 
 1. Algorithms  
     1.1. Policy iteration  
@@ -56,7 +56,7 @@ WIP
     1.6. Online Q-iteration
 2. Tips & hacks
 
-##### 7. Deep Reinforcement Learning with Q-functions
+#### 7. Deep Reinforcement Learning with Q-functions
 
 1. Algorithms  
     1.1. Q-learning with replay buffer  
@@ -65,15 +65,15 @@ WIP
     1.4. DDPG: Q-learning for continuous actions
 2. Tips & hacks
 
-##### 8. Advanced Policy Gradients
+#### 8. Advanced Policy Gradients
 
 WIP
 
-##### 9. Model-based planning
+#### 9. Model-based planning
 
 WIP
 
-##### 10. Model-based Reinforcement Learning
+#### 10. Model-based Reinforcement Learning
 
 1. Algorithms  
     1.1. Model-based Reinforcement Learning version 0.5  
@@ -82,7 +82,7 @@ WIP
     1.4. Model-based Reinforcement Learning with latent space models
 2. Tips & hacks
 
-##### 11. Model-based Policy Learning
+#### 11. Model-based Policy Learning
 
 1. Algorithms  
     1.1. Model-based Reinforcement Learning version 2.0  
@@ -94,40 +94,40 @@ pansion – MBPO: Model-based Policy Optimization
     1.5. Divide and Conquer Reinforcement Learning
 2. Tips & hacks
 
-##### 12. Variational Inference & Generative models
+#### 12. Variational Inference & Generative models
 
 WIP
 
-##### 13. Control as inference
+#### 13. Control as inference
 
 1. Algorithms  
     1.1 Soft Q-learning
 
-##### 14. Inverse Reinforcement Learning
+#### 14. Inverse Reinforcement Learning
 
 1. Algorithms  
     1.1. Maximum Entropy Inverse Reinforcement Learning
 2. Tips & hacks
 
-##### 15. Transfer & Multi-task Learning
+#### 15. Transfer & Multi-task Learning
 
 1. Tips & hacks
 
-##### 16. Distributed Reinforcement Learning
+#### 16. Distributed Reinforcement Learning
 
 WIP
 
-##### 17. Exploration
+#### 17. Exploration
 
 1. Algorithms  
     1.1. Pre-train & finetune
 2. Tips & hacks
 
-##### 18. Meta-learning
+#### 18. Meta-learning
 
 WIP
 
-##### 19. Information theory
+#### 19. Information theory
 
 WIP
 
