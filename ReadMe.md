@@ -14,6 +14,9 @@ This repository contains some personal Deep Reinforcement Learning class notes i
 
 ### 1.1 CS285 (UC Berkeley) - Deep Reinforcement Learning by Sergey Levine
 
+These notes summarize the main Reinforcement Learning algorithms, both in theory 
+and in practice with some tips & hacks for efficient implementation.
+
 #### 1. Introduction
 
 WIP
